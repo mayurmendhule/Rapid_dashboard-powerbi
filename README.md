@@ -8,7 +8,7 @@ The dashboard provides insights into **rides, revenue, customer behavior, and pe
 ## 📊 Features
 - Interactive charts for **rides per city, revenue trends, and customer segmentation**  
 - KPIs: **Total Rides, Revenue, Avg. Ride Duration, Peak Hours**  
-- Filters for **City, Month, and Ride Type**  
+- Filters for **District and  Month** 
 - Data cleaning & transformation before visualization  
 
 ---
@@ -47,3 +47,4 @@ The dashboard provides insights into **rides, revenue, customer behavior, and pe
 1. Clone this repository  
    ```bash
    git clone https://github.com/mayurmendhule/Rapid_dashboard-powerbi.git
+
